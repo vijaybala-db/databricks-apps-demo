@@ -82,3 +82,4 @@ You can get the URL from the Databricks UI (Compute-->Apps-->Overview-->Running)
 
 https://databricks-apps-demo-854255232059616.aws.databricksapps.com/
 
+![deployed-app](media/deployed-app.png)
