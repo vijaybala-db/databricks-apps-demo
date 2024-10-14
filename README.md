@@ -83,3 +83,10 @@ You can get the URL from the Databricks UI (Compute-->Apps-->Overview-->Running)
 https://databricks-apps-demo-854255232059616.aws.databricksapps.com/
 
 ![deployed-app](media/deployed-app.png)
+
+
+#### Step 10: Grant permissions to additional users
+
+By default, only the app creator and admins can access the app. If appropriate, grant "All workspace users" the "Can Use" permission.
+
+![grant-app-permissions](media/grant-app-permissions.png)
