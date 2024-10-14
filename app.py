@@ -40,7 +40,7 @@ def query_llm(message, history):
 # Create Gradio interface
 demo = gr.ChatInterface(
     fn=query_llm,
-    title="Databricks LLM Chatbot",
+    title="Databricks LLM Chatbot!",
     description="Ask questions and get responses from a Databricks LLM model.",
     examples=[
         "What is machine learning?",
